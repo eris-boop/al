@@ -111,7 +111,7 @@ while True:
                     print(f"Link: {result['link']}")
                     print("\n")
             else:
-                print("GoogleBot: Tidak menemukan hasil.")
+                print("AL Bot(beta): Tidak menemukan hasil.")
 
 #bukan sepuh masih banyak salah
 #dapatin api key nya di Google Cloud Console.
